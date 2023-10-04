@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Check out my new [website](https://matejhakos.eu.org)!
+### [Check out my new website](https://matejhakos.eu.org)!
 
 <!--
 **mattjoke/mattjoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
